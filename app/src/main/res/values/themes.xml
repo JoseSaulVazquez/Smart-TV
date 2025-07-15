@@ -2,6 +2,6 @@
     <style name="Theme.Nefis" parent="@style/Theme.Leanback" >
         <item name="android:windowAllowEnterTransitionOverlap">true</item>
         <item name="android:windowAllowReturnTransitionOverlap">true</item>
-        <item name="android:colorPrimary">#25A5C8</item>
+        <item name="android:colorPrimary">#ff0000</item>
     </style>
 </resources>
